@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+nvm use v14.18.3
